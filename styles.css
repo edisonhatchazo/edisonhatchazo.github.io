@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    background-attachment: fixed;
+}
+h1 {
+    color: silver;
+    text-align: center;
+    font-size: 50px;
+}
+
+p{
+	text-align:center;
+}
+
+#soul{
+	color: gold;
+	font-size: 30px;
+	font-family: sans-serif;	
+}
+
+th {
+	color: green;
+	font-size: 25px;
+	font-family: verdana;
+	padding: 10px;
+}
+
+td{
+	color: lightblue;
+	font-size: 20px;
+	font-family: courier;
+	font-style: italic;
+}
+
+
