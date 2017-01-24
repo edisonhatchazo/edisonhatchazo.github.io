@@ -1,0 +1,10 @@
+body {
+	background: black;
+   color: white;
+   border: 1em;
+   padding: 1em;
+   position: absolute;
+   top: 5%;
+   left: 5%;
+   margin-right: -01%;
+}
