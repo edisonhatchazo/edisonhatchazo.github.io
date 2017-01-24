@@ -32,6 +32,8 @@ td{
 
 img{
 	border-radius: 50%;
+	display: block;
+	margin:  auto;
 	width: 300px;
 	height: 300px;
 }
